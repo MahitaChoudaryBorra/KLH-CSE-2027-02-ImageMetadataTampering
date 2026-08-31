@@ -1,4 +1,3 @@
-````markdown
 # Image Metadata and Tampering Detection System for Digital Forensic Investigation
 
 ## Overview
